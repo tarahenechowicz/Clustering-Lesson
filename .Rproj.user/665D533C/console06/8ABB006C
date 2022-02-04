@@ -1,0 +1,61 @@
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+]0;~/Documents/RTeaching/ClusteringLesson[?1034h(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ gig[Kt init
+[33mhint: Using 'master' as the name for the initial branch. This default branch name[m
+[33mhint: is subject to change. To configure the initial branch name to use in all[m
+[33mhint: of your new repositories, which will suppress this warning, call:[m
+[33mhint: [m
+[33mhint: 	git config --global init.defaultBranch <name>[m
+[33mhint: [m
+[33mhint: Names commonly chosen instead of 'master' are 'main', 'trunk' and[m
+[33mhint: 'development'. The just-created branch can be renamed via this command:[m
+[33mhint: [m
+[33mhint: 	git branch -m <name>[m
+Initialized empty Git repository in /Users/tarahenechowicz/Documents/RTeaching/ClusteringLesson/.git/
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git setup -[Kremote upstea[K[Kream branch-
+git: 'setup' is not a git command. See 'git --help'.
+
+The most similar command is
+	status
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$  git push --set-upstream <remote> <bran ch>[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[Khttps://githu b.com/tarahenechowicz>
+bash: syntax error near unexpected token `newline'
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git setup remote upstream branch-https: //github.com/tarahenechowicz[K[Cz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://[1Pgithub.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://g[1Pithub.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://gi[1Pthub.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://git[1Phub.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://gith[1Pub.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://githu[1Pb.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cupstream branch-https://github[1P.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.[1Pcom/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.c[1Pom/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.co[1Pm/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.com[1P/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.com/[1Ptarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Co upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.com/[1Ptarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cp upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cu upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ch upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cs upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ce upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C- upstream branch-https://github.com/tarahenechowicz[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+fatal: invalid refspec 'branch-https://github.com/tarahenechowicz'
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git push
+fatal: No configured push destination.
+Either specify the URL from the command-line or configure a remote repository using
+
+    git remote add <name> <url>
+
+and then push using the remote name
+
+    git push <name>
+
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git remote add origin -[Khttps://github.co m/tarahenechowicz[K[A(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git remote add origin https://github.comm/tarahenechowicz[K[A(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git remote add origin https://github.comm/tarahenechowiczgit [K[K[K[K
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git init
+Reinitialized existing Git repository in /Users/tarahenechowicz/Documents/RTeaching/ClusteringLesson/.git/
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git stage
+Nothing specified, nothing added.
+[33mhint: Maybe you wanted to say 'git add .'?[m
+[33mhint: Turn this message off by running[m
+[33mhint: "git config advice.addEmptyPathspec false"[m
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ gist[K[Kt status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+	[31m.Rproj.user/[m
+	[31mClustering.Rmd[m
+	[31mClusteringLesson.Rproj[m
+	[31mREADME.md[m
+
+nothing added to commit but untracked files present (use "git add" to track)
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git add-A
+git: 'add-A' is not a git command. See 'git --help'.
+]0;~/Documents/RTeaching/ClusteringLesson(base) Taras-MacBook-Pro:ClusteringLesson tarahenechowicz$ git add - [KA
